@@ -15,7 +15,7 @@ A geospatial optimization engine built in **Python** using the **PuLP** library 
 Before running the solver, you must manually acquire the demographic datasets from Statistics Canada.
 
 ### 1. Download Census Profile Data
-Create a directory named `DAdata` in the project root. Download the "Canada, provinces, territories, census divisions, census subdivisions and dissemination areas" dataset and place the CSV inside:
+Create a directory named `DAdata` in the project root. Download the "Canada, provinces, territories, census divisions (CDs), census subdivisions (CSDs) and dissemination areas (DAs)" dataset and place the CSV inside:
 * **Download Page:** [StatCan Census Profiles](https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/download-telecharger.cfm?Lang=E)
 * **Direct Download:** [CSV File Link](https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/download-telecharger/comp/GetFile.cfm?Lang=E&FILETYPE=CSV&GEONO=006)
 

@@ -416,3 +416,14 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Data directories
+data/
+PopulationData/
+
+# Local python environment and cache
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
