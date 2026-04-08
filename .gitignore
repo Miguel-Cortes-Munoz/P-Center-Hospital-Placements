@@ -387,7 +387,7 @@ MSBuild_Logs/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-# Backup folder for Package Reference Convert tool in Visual Studio 2017
+# Backup folder for Package Reference Tool in Visual Studio 2017
 MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
@@ -427,3 +427,5 @@ venv/
 __pycache__/
 *.py[cod]
 *$py.class
+images/
+cache/
