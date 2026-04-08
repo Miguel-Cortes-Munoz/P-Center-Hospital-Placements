@@ -5,6 +5,6 @@ pandas
 matplotlib>=3.7.0
 tqdm
 pyproj
-box
+python-box
 geopandas
 scikit-learn
